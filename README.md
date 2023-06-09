@@ -1,4 +1,4 @@
-# Hello, I am Brian Au 👋
+# Hi, I am Brian Au 👋
 
 ## Here's a little bit about myself...
 
