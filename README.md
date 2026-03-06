@@ -26,7 +26,6 @@ A collection of reusable Claude Code skills for Adobe Analytics & CJA workflows 
 
 ## Community
 
-- 📝 [Adobe Experience League Blog](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/2641310/contributions/blogs)
 - 🔍 [Experience League Community Activity](https://experienceleaguecommunities.adobe.com/search/activity/topics?userid=355505)
 
 ## Connect
