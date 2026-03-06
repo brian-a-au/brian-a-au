@@ -16,7 +16,7 @@ For over a decade, I've led Data Analytics, Data Engineering, and Data Science i
 - 🏅 Adobe Certified Expert — Adobe Analytics Business Practitioner
 - 🏅 Adobe Certified Professional — Customer Journey Analytics Business Practitioner
 - 🏅 Adobe Subject Matter Expert — Customer Journey Analytics Business Practitioner Professional
-- 🏅 Data Science Bootcamp for Researchers — Data Science Dojo
+
 
 ## Projects
 
