@@ -14,7 +14,7 @@ For over a decade, I've led Data Analytics, Data Engineering, and Data Science i
 - 🏅 Adobe Certified Expert — Customer Journey Analytics Developer
 - 🏅 Adobe Certified Expert — Adobe Analytics Developer
 - 🏅 Adobe Certified Expert — Adobe Analytics Business Practitioner
-- 🏅 Adobe Certified Professional — CJA Business Practitioner
+- 🏅 Adobe Certified Professional — Customer Journey Analytics Business Practitioner
 
 ## Projects
 
