@@ -6,16 +6,6 @@
 
 For over a decade, I've led Data Analytics, Data Engineering, and Data Science initiatives. I'm passionate about turning complex data systems into clear, actionable insights — and building tools that help others do the same.
 
-## Certifications
-
-- 🏅 Adobe Certified Master — Adobe Analytics Architect
-- 🏅 Adobe Certified Expert — Customer Journey Analytics Developer
-- 🏅 Adobe Certified Expert — Adobe Analytics Developer
-- 🏅 Adobe Certified Expert — Adobe Analytics Business Practitioner
-- 🏅 Adobe Certified Professional — Customer Journey Analytics Business Practitioner
-- 🏅 Adobe Subject Matter Expert — Customer Journey Analytics Business Practitioner Professional
-
-
 ## Projects
 
 ### [CJA Auto SDR](https://github.com/brian-a-au/cja_auto_sdr)
@@ -27,6 +17,15 @@ A collection of reusable Claude Code skills for Adobe Analytics & CJA workflows 
 ## Community
 
 - 🔍 [Experience League Community Activity](https://experienceleaguecommunities.adobe.com/search/activity/topics?userid=355505)
+
+## Certifications
+
+- 🏅 Adobe Certified Master — Adobe Analytics Architect
+- 🏅 Adobe Certified Expert — Customer Journey Analytics Developer
+- 🏅 Adobe Certified Expert — Adobe Analytics Developer
+- 🏅 Adobe Certified Expert — Adobe Analytics Business Practitioner
+- 🏅 Adobe Certified Professional — Customer Journey Analytics Business Practitioner
+- 🏅 Adobe Subject Matter Expert — Customer Journey Analytics Business Practitioner Professional
 
 ## Connect
 
