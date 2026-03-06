@@ -6,8 +6,6 @@
 
 For over a decade, I've led Data Analytics, Data Engineering, and Data Science initiatives. I'm passionate about turning complex data systems into clear, actionable insights — and building tools that help others do the same.
 
-🎓 University of Arizona
-
 ## Certifications
 
 - 🏅 Adobe Certified Master — Adobe Analytics Architect
