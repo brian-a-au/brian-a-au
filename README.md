@@ -11,6 +11,9 @@ For over a decade, I've led Data Analytics, Data Engineering, and Data Science i
 ### [CJA Auto SDR](https://github.com/brian-a-au/cja_auto_sdr)
 A Python CLI tool that automates Solution Design Reference (SDR) documentation from Adobe Customer Journey Analytics. Connects to the CJA API to extract Data View configurations, validate data quality, and generate professionally formatted docs (Excel, CSV, JSON, HTML, Markdown). Features batch processing, snapshot management, and org-wide governance analysis.
 
+### [AA Auto SDR](https://github.com/brian-a-au/aa_auto_sdr)
+A Python CLI tool that automates Solution Design Reference (SDR) documentation from Adobe Analytics. Connects to the Adobe Analytics 2.0 API (read-only) to extract dimensions, metrics, segments, calculated metrics, virtual report suites, and classification datasets, and renders SDRs in five formats (Excel, CSV, JSON, HTML, Markdown). Features batch RSID processing, snapshot persistence with structured diffs (including a PR-comment renderer for GitHub), and named multi-org profiles. Sister project to `cja_auto_sdr`.
+
 ### [Claude Code Skills for Adobe](https://github.com/brian-a-au/bau_claude_skills)
 A collection of reusable Claude Code skills for Adobe Analytics & CJA workflows — covering concepts, API setup, and SDR generation.
 
