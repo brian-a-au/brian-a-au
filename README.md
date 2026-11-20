@@ -26,36 +26,36 @@ For over a decade, I've led data analytics, data engineering and data science wo
 ### Document
 
 #### [CJA Auto SDR](https://github.com/brian-a-au/cja_auto_sdr)
-[![PyPI](https://img.shields.io/pypi/v/cja-auto-sdr?label=PyPI)](https://pypi.org/project/cja-auto-sdr/) [![Downloads](https://img.shields.io/pypi/dm/cja-auto-sdr?label=downloads)](https://pypistats.org/packages/cja-auto-sdr)
+[![PyPI](https://img.shields.io/pypi/v/cja-auto-sdr?label=PyPI)](https://pypi.org/project/cja-auto-sdr/)
 
 Documents your CJA data views as a Solution Design Reference (SDR) in Excel, CSV, JSON, HTML or Markdown. Use it to keep a current record of every dimension and metric, to compare snapshots over time, or to review governance across your whole org.
 
 #### [AA Auto SDR](https://github.com/brian-a-au/aa_auto_sdr)
-[![PyPI](https://img.shields.io/pypi/v/aa-auto-sdr?label=PyPI)](https://pypi.org/project/aa-auto-sdr/) [![Downloads](https://img.shields.io/pypi/dm/aa-auto-sdr?label=downloads)](https://pypistats.org/packages/aa-auto-sdr)
+[![PyPI](https://img.shields.io/pypi/v/aa-auto-sdr?label=PyPI)](https://pypi.org/project/aa-auto-sdr/)
 
 Documents your Adobe Analytics report suites as an SDR, including eVars, props, events, segments, calculated metrics and classifications. Use it to audit an implementation, to track changes between snapshots, or to post a diff as a comment on a GitHub pull request.
 
 ### Assess
 
 #### [SDR Grader](https://github.com/brian-a-au/sdr-grader)
-[![PyPI](https://img.shields.io/pypi/v/sdr-grader?label=PyPI)](https://pypi.org/project/sdr-grader/) [![Downloads](https://img.shields.io/pypi/dm/sdr-grader?label=downloads)](https://pypistats.org/packages/sdr-grader)
+[![PyPI](https://img.shields.io/pypi/v/sdr-grader?label=PyPI)](https://pypi.org/project/sdr-grader/)
 
 Grades an AA or CJA implementation against a rubric and writes an HTML report card. Use it to find governance problems, or to fail a CI check when the grade drops. It reads the snapshots from the two SDR tools and makes no calls to Adobe.
 
 #### [SDR Visualizer](https://github.com/brian-a-au/sdr-visualizer)
-[![PyPI](https://img.shields.io/pypi/v/sdr-visualizer?label=PyPI)](https://pypi.org/project/sdr-visualizer/) [![Downloads](https://img.shields.io/pypi/dm/sdr-visualizer?label=downloads)](https://pypistats.org/packages/sdr-visualizer)
+[![PyPI](https://img.shields.io/pypi/v/sdr-visualizer?label=PyPI)](https://pypi.org/project/sdr-visualizer/)
 
 Turns an SDR snapshot into one HTML file that you can search and browse offline, with a graph of which components refer to which. Use it to explore an implementation, or to compare two snapshots and see what changed.
 
 ### Monitor
 
 #### [AA Health DuckDB](https://github.com/brian-a-au/aa-health-duckdb)
-[![PyPI](https://img.shields.io/pypi/v/aa-health-duckdb?label=PyPI)](https://pypi.org/project/aa-health-duckdb/) [![Downloads](https://img.shields.io/pypi/dm/aa-health-duckdb?label=downloads)](https://pypistats.org/packages/aa-health-duckdb)
+[![PyPI](https://img.shields.io/pypi/v/aa-health-duckdb?label=PyPI)](https://pypi.org/project/aa-health-duckdb/)
 
 Checks whether your Adobe Analytics data is still flowing. It flags drops, spikes and values that fall to zero for every custom event, eVar and prop, keeps every run in a DuckDB file, and writes an HTML report you can open offline. It is an open source alternative to Adobe's "Analytics Health Dashboard" Excel workbook.
 
 #### [CJA Audit Log Monitor](https://github.com/brian-a-au/cja-audit-log-monitor)
-[![PyPI](https://img.shields.io/pypi/v/cja-audit-log-monitor?label=PyPI)](https://pypi.org/project/cja-audit-log-monitor/) [![Downloads](https://img.shields.io/pypi/dm/cja-audit-log-monitor?label=downloads)](https://pypistats.org/packages/cja-audit-log-monitor)
+[![PyPI](https://img.shields.io/pypi/v/cja-audit-log-monitor?label=PyPI)](https://pypi.org/project/cja-audit-log-monitor/)
 
 Shows who created, changed, deleted, exported or shared components in your CJA org. You can search and export the audit logs, watch new events live in a terminal app, and send alerts to Slack or a webhook when someone deletes, exports or shares many components at once.
 
