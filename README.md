@@ -4,7 +4,7 @@
 
 ## About Me
 
-For over a decade, I've led data analytics, data engineering and data science work. I also build free, open source tools for people who work with Adobe Analytics (AA) and Customer Journey Analytics (CJA). With them, you can document, grade and monitor an implementation without doing that work by hand in spreadsheets. The tools only read from Adobe and never change anything there. They are my personal projects, not official Adobe products.
+For over a decade, I've led data analytics, data engineering and data science work. I also build free, open source tools for Adobe Analytics (AA) and Customer Journey Analytics (CJA), which you can find below. They are my personal projects, not official Adobe products.
 
 ## Projects
 
