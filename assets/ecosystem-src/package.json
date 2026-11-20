@@ -1,0 +1,12 @@
+{
+  "name": "ecosystem-diagram",
+  "private": true,
+  "description": "Builds the hand-drawn ecosystem diagram for the profile README.",
+  "scripts": { "build": "node build.js" },
+  "dependencies": {
+    "@excalidraw/excalidraw": "0.18.0",
+    "opentype.js": "2.0.0",
+    "roughjs": "4.6.6",
+    "wawoff2": "2.0.1"
+  }
+}
