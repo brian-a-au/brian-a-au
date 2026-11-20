@@ -26,7 +26,7 @@ A Python CLI tool that checks the health of Adobe Analytics report suites. It is
 ### [CJA Audit Log Monitor](https://github.com/brian-a-au/cja-audit-log-monitor)
 A Python terminal app (TUI) and CLI for monitoring Adobe Customer Journey Analytics (CJA) audit logs. It is for admins who want to know who is changing, deleting, exporting or sharing components in their CJA org, and who want to catch risky activity early. You can browse and filter the logs by user, action, component and description text, watch new events arrive in a live monitor, and see charts of activity by hour and by day. Alert rules flag bulk deletes, bulk exports and bulk shares. Separate anomaly checks flag unusual activity between midnight and 5am. You can send alerts to Slack or to a webhook, and you can export filtered logs as JSON, CSV or TSV. The CLI works in scripts and scheduled jobs, and most commands can print JSON. It is an unofficial, open source tool, and you can install it from PyPI with `uv` or `pipx`.
 
-### [Claude Code Skills for Adobe](https://github.com/brian-a-au/bau_claude_skills)
+### [Claude Code Skills for Adobe](https://github.com/brian-a-au/bau-claude-skills)
 A collection of reusable Claude Code skills for Adobe Analytics & CJA workflows — covering concepts, API setup, and SDR generation.
 
 ## Community
