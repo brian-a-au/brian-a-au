@@ -70,12 +70,12 @@ Claude Code skills for AA and CJA. You ask Claude for a task in plain words, e.g
 
 ## Certifications
 
-![Adobe Certified Master: Adobe Analytics Architect](https://img.shields.io/badge/Adobe%20Certified%20Master-Adobe%20Analytics%20Architect-EB1000?labelColor=2D2D2D)
-![Adobe Certified Expert: Customer Journey Analytics Developer](https://img.shields.io/badge/Adobe%20Certified%20Expert-Customer%20Journey%20Analytics%20Developer-D7373F?labelColor=2D2D2D)
-![Adobe Certified Expert: Adobe Analytics Developer](https://img.shields.io/badge/Adobe%20Certified%20Expert-Adobe%20Analytics%20Developer-D7373F?labelColor=2D2D2D)
-![Adobe Certified Expert: Adobe Analytics Business Practitioner](https://img.shields.io/badge/Adobe%20Certified%20Expert-Adobe%20Analytics%20Business%20Practitioner-D7373F?labelColor=2D2D2D)
-![Adobe Certified Professional: Customer Journey Analytics Business Practitioner](https://img.shields.io/badge/Adobe%20Certified%20Professional-Customer%20Journey%20Analytics%20Business%20Practitioner-6E6E6E?labelColor=2D2D2D)
-![Adobe Subject Matter Expert: Customer Journey Analytics Business Practitioner Professional](https://img.shields.io/badge/Adobe%20Subject%20Matter%20Expert-Customer%20Journey%20Analytics%20Business%20Practitioner%20Professional-1473E6?labelColor=2D2D2D)
+- 🏅 Adobe Certified Master — Adobe Analytics Architect
+- 🏅 Adobe Certified Expert — Customer Journey Analytics Developer
+- 🏅 Adobe Certified Expert — Adobe Analytics Developer
+- 🏅 Adobe Certified Expert — Adobe Analytics Business Practitioner
+- 🏅 Adobe Certified Professional — Customer Journey Analytics Business Practitioner
+- 🏅 Adobe Subject Matter Expert — Customer Journey Analytics Business Practitioner Professional
 
 ## Connect
 
