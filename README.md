@@ -23,37 +23,45 @@ For over a decade, I've led data analytics, data engineering and data science wo
 | Find out who deleted, exported or shared something in CJA | [CJA Audit Log Monitor](https://github.com/brian-a-au/cja-audit-log-monitor) |
 | Do any of these by asking Claude in plain words | [Claude Code Skills for Adobe](https://github.com/brian-a-au/bau-claude-skills) |
 
-### [CJA Auto SDR](https://github.com/brian-a-au/cja_auto_sdr)
+### Document
+
+#### [CJA Auto SDR](https://github.com/brian-a-au/cja_auto_sdr)
 [![PyPI](https://img.shields.io/pypi/v/cja-auto-sdr?label=PyPI)](https://pypi.org/project/cja-auto-sdr/) [![Downloads](https://img.shields.io/pypi/dm/cja-auto-sdr?label=downloads)](https://pypistats.org/packages/cja-auto-sdr)
 
 Documents your CJA data views as a Solution Design Reference (SDR) in Excel, CSV, JSON, HTML or Markdown. Use it to keep a current record of every dimension and metric, to compare snapshots over time, or to review governance across your whole org.
 
-### [AA Auto SDR](https://github.com/brian-a-au/aa_auto_sdr)
+#### [AA Auto SDR](https://github.com/brian-a-au/aa_auto_sdr)
 [![PyPI](https://img.shields.io/pypi/v/aa-auto-sdr?label=PyPI)](https://pypi.org/project/aa-auto-sdr/) [![Downloads](https://img.shields.io/pypi/dm/aa-auto-sdr?label=downloads)](https://pypistats.org/packages/aa-auto-sdr)
 
 Documents your Adobe Analytics report suites as an SDR, including eVars, props, events, segments, calculated metrics and classifications. Use it to audit an implementation, to track changes between snapshots, or to post a diff as a comment on a GitHub pull request.
 
-### [SDR Grader](https://github.com/brian-a-au/sdr-grader)
+### Assess
+
+#### [SDR Grader](https://github.com/brian-a-au/sdr-grader)
 [![PyPI](https://img.shields.io/pypi/v/sdr-grader?label=PyPI)](https://pypi.org/project/sdr-grader/) [![Downloads](https://img.shields.io/pypi/dm/sdr-grader?label=downloads)](https://pypistats.org/packages/sdr-grader)
 
 Grades an AA or CJA implementation against a rubric and writes an HTML report card. Use it to find governance problems, or to fail a CI check when the grade drops. It reads the snapshots from the two SDR tools and makes no calls to Adobe.
 
-### [SDR Visualizer](https://github.com/brian-a-au/sdr-visualizer)
+#### [SDR Visualizer](https://github.com/brian-a-au/sdr-visualizer)
 [![PyPI](https://img.shields.io/pypi/v/sdr-visualizer?label=PyPI)](https://pypi.org/project/sdr-visualizer/) [![Downloads](https://img.shields.io/pypi/dm/sdr-visualizer?label=downloads)](https://pypistats.org/packages/sdr-visualizer)
 
 Turns an SDR snapshot into one HTML file that you can search and browse offline, with a graph of which components refer to which. Use it to explore an implementation, or to compare two snapshots and see what changed.
 
-### [AA Health DuckDB](https://github.com/brian-a-au/aa-health-duckdb)
+### Monitor
+
+#### [AA Health DuckDB](https://github.com/brian-a-au/aa-health-duckdb)
 [![PyPI](https://img.shields.io/pypi/v/aa-health-duckdb?label=PyPI)](https://pypi.org/project/aa-health-duckdb/) [![Downloads](https://img.shields.io/pypi/dm/aa-health-duckdb?label=downloads)](https://pypistats.org/packages/aa-health-duckdb)
 
 Checks whether your Adobe Analytics data is still flowing. It flags drops, spikes and values that fall to zero for every custom event, eVar and prop, keeps every run in a DuckDB file, and writes an HTML report you can open offline. It is an open source alternative to Adobe's "Analytics Health Dashboard" Excel workbook.
 
-### [CJA Audit Log Monitor](https://github.com/brian-a-au/cja-audit-log-monitor)
+#### [CJA Audit Log Monitor](https://github.com/brian-a-au/cja-audit-log-monitor)
 [![PyPI](https://img.shields.io/pypi/v/cja-audit-log-monitor?label=PyPI)](https://pypi.org/project/cja-audit-log-monitor/) [![Downloads](https://img.shields.io/pypi/dm/cja-audit-log-monitor?label=downloads)](https://pypistats.org/packages/cja-audit-log-monitor)
 
 Shows who created, changed, deleted, exported or shared components in your CJA org. You can search and export the audit logs, watch new events live in a terminal app, and send alerts to Slack or a webhook when someone deletes, exports or shares many components at once.
 
-### [Claude Code Skills for Adobe](https://github.com/brian-a-au/bau-claude-skills)
+### Automate
+
+#### [Claude Code Skills for Adobe](https://github.com/brian-a-au/bau-claude-skills)
 Claude Code skills for AA and CJA. You ask Claude for a task in plain words, e.g., "document report suite X and grade it", and Claude runs the right tools above. The collection also explains AA and CJA concepts and walks you through API setup. You can install it as a Claude Code plugin.
 
 ## Community
@@ -62,12 +70,12 @@ Claude Code skills for AA and CJA. You ask Claude for a task in plain words, e.g
 
 ## Certifications
 
-- 🏅 Adobe Certified Master — Adobe Analytics Architect
-- 🏅 Adobe Certified Expert — Customer Journey Analytics Developer
-- 🏅 Adobe Certified Expert — Adobe Analytics Developer
-- 🏅 Adobe Certified Expert — Adobe Analytics Business Practitioner
-- 🏅 Adobe Certified Professional — Customer Journey Analytics Business Practitioner
-- 🏅 Adobe Subject Matter Expert — Customer Journey Analytics Business Practitioner Professional
+![Adobe Certified Master: Adobe Analytics Architect](https://img.shields.io/badge/Adobe%20Certified%20Master-Adobe%20Analytics%20Architect-EB1000?labelColor=2D2D2D)
+![Adobe Certified Expert: Customer Journey Analytics Developer](https://img.shields.io/badge/Adobe%20Certified%20Expert-Customer%20Journey%20Analytics%20Developer-D7373F?labelColor=2D2D2D)
+![Adobe Certified Expert: Adobe Analytics Developer](https://img.shields.io/badge/Adobe%20Certified%20Expert-Adobe%20Analytics%20Developer-D7373F?labelColor=2D2D2D)
+![Adobe Certified Expert: Adobe Analytics Business Practitioner](https://img.shields.io/badge/Adobe%20Certified%20Expert-Adobe%20Analytics%20Business%20Practitioner-D7373F?labelColor=2D2D2D)
+![Adobe Certified Professional: Customer Journey Analytics Business Practitioner](https://img.shields.io/badge/Adobe%20Certified%20Professional-Customer%20Journey%20Analytics%20Business%20Practitioner-6E6E6E?labelColor=2D2D2D)
+![Adobe Subject Matter Expert: Customer Journey Analytics Business Practitioner Professional](https://img.shields.io/badge/Adobe%20Subject%20Matter%20Expert-Customer%20Journey%20Analytics%20Business%20Practitioner%20Professional-1473E6?labelColor=2D2D2D)
 
 ## Connect
 
