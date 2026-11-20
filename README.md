@@ -15,12 +15,12 @@ For over a decade, I've led data analytics, data engineering and data science wo
 
 | You want to... | Use |
 |---|---|
-| Document a CJA data view | [CJA Auto SDR](https://github.com/brian-a-au/cja_auto_sdr) |
-| Document an Adobe Analytics report suite | [AA Auto SDR](https://github.com/brian-a-au/aa_auto_sdr) |
+| Document a Customer Journey Analytics (CJA) data view | [CJA Auto SDR](https://github.com/brian-a-au/cja_auto_sdr) |
+| Document an Adobe Analytics (AA) report suite | [AA Auto SDR](https://github.com/brian-a-au/aa_auto_sdr) |
 | Grade an implementation, or fail a CI check when the grade drops | [SDR Grader](https://github.com/brian-a-au/sdr-grader) |
 | Browse an implementation, or see what changed between two snapshots | [SDR Visualizer](https://github.com/brian-a-au/sdr-visualizer) |
 | Find out if report suite data stopped, dropped or spiked | [AA Health DuckDB](https://github.com/brian-a-au/aa-health-duckdb) |
-| Find out who deleted, exported or shared something in CJA | [CJA Audit Log Monitor](https://github.com/brian-a-au/cja-audit-log-monitor) |
+| Find out who deleted, exported or shared something in Customer Journey Analytics (CJA) | [CJA Audit Log Monitor](https://github.com/brian-a-au/cja-audit-log-monitor) |
 | Do any of these by asking Claude in plain words | [Claude Code Skills for Adobe](https://github.com/brian-a-au/bau-claude-skills) |
 
 ### Document
